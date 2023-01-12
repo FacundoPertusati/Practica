@@ -128,7 +128,7 @@ let txt = text.trim()
 
 console.log(txt)
 
-lo que vas a ver sirve para asignar claves valor privadas 
+                                                                                 /* lo que vas a ver sirve para asignar claves valor privadas  */
 
 
 class pers {
